@@ -1,4 +1,4 @@
-# template
+# render3d
 Generate project files by running:
 - "generate.bat"
 
